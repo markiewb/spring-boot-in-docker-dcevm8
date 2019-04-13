@@ -9,7 +9,7 @@ import java.util.Date;
 public class Controller
 {
 
-    @RequestMapping("/")
+    @RequestMapping("/benno2") 
     public String currentDate()
     {
 
